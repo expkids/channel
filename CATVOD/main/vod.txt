@@ -562,11 +562,12 @@
 {"name":"CCTV5-高清","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8"]},
 {"name":"咪咕体育-4K","urls":["http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8"]},
 {"name":"广东体育","urls":["http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8"]}]},
-{"group":"英","channels":[
-{"name":"Super 4k ","urls":["http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H"]},
-{"name":"TRT 4k","urls":["http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H"]},
-{"name":"CCTV4K 16M","urls":["http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8"]},
-{"name":"CCTV16-4K 34","urls":["http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8"]}]}],
+{"group":"备","channels":[
+{"name":"CCTV5-2","urls":["http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3"]},
+{"name":"CCTV5-3)","urls":["http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222"]},
+{"name":"五星体育(1)","urls":["http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8"]},
+{"name":"五星体育(2)","urls":["http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8"]},
+{"name":"广东体育","urls":["http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8"]}]}],
 
   "parses": [
     {
