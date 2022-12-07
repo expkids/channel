@@ -559,14 +559,15 @@
 "lives":[
 {"group":"中","channels":[
 {"name":"4K50P","urls":["http://159.75.85.63:5678/zb.php?id=douyin"]},
-{"name":"CCTV16-4K-25P","urls":["http://live.cooltv.top/tv/aishang.php?id=cctv164k"]}, 
+{"name":"CCTV5-高清","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8"]},
+{"name":"咪咕体育-4K","urls":["http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8"]},
 {"name":"广东体育","urls":["http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8"]}]},
 {"group":"英","channels":[
 {"name":"Super 4k ","urls":["http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H"]},
 {"name":"TRT 4k","urls":["http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H"]},
 {"name":"CCTV4K 16M","urls":["http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8"]},
-{"name":"CCTV16-4K 34","urls":["http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8"]},
-{"name":"咪咕体育-4K","urls":["http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8"]}]}],
+{"name":"CCTV16-4K 34","urls":["http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8"]}]}],
+
   "parses": [
     {
       "name": "Web聚合",
