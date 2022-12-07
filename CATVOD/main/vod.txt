@@ -556,17 +556,20 @@
     }
 
   ],
-"lives":[
-{"group":"中","channels":[
-{"name":"4K50P","urls":["http://159.75.85.63:5678/zb.php?id=douyin"]},
-{"name":"CCTV5-高清","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8"]},
-{"name":"咪咕体育-4K","urls":["http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8"]},
-{"name":"广东体育","urls":["http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8"]}]},
-{"group":"备","channels":[
-{"name":"五星体育(1)","urls":["http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8"]},
-{"name":"五星体育(2)","urls":["http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8"]},
-{"name":"广东体育","urls":["http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8"]}]}],
-
+ "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            // "https://github.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
+          ]
+        }
+      ]
+    }
+  ],
   "parses": [
     {
       "name": "Web聚合",
