@@ -558,6 +558,7 @@
   ],
 "lives":[
 {"group":"中","channels":[
+{"name":"Now Sports HK","urls":["http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222"]},
 {"name":"4K50P","urls":["http://159.75.85.63:5678/zb.php?id=douyin"]},
 {"name":"CCTV5-高清","urls":["http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8"]},
 {"name":"CCTV5-高清2","urls":["http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
@@ -565,6 +566,8 @@
 {"name":"咪咕体育-4K","urls":["http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8"]},
 {"name":"CCTV5+HD","urls":["http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8"]}]},
 {"group":"备","channels":[
+{"name":"Astro Super Sport 4K","urls":["http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/348094"]},
+{"name":"CCTV16-4K","urls":["http://154.3.37.107:8280/live/1/hls.m3u8"]},
 {"name":"五星体育(1)","urls":["http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8"]},
 {"name":"五星体育(2)","urls":["http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8"]},
 {"name":"CCTV5+HD","urls":["http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8"]}]}],
