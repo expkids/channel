@@ -568,7 +568,7 @@
 {"name":"DAZN 1","urls":["http://philgrim.online:2082/edercapo/capieder/152089"]},
 {"name":"FOX","urls":["http://abc123.digital:8080/bigmoe17.2@gmail.com/CWCwH9E9cG/418211"]},
 {"name":"ESPN","urls":["http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/1038"]},
-{"name":"BBC 1","urls":["http://sharkytv.com:2082/topsmoothexc/SbyIeyH2Yj/16133"]}]}],
+{"name":"BBC","urls":["http://sharkytv.com:2082/topsmoothexc/SbyIeyH2Yj/16133"]}]}],
 
   "parses": [
     {
