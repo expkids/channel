@@ -567,7 +567,7 @@
 {"name":"Astro Super Sport 4K","urls":["http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/348094"]},
 {"name":"DAZN 1","urls":["http://philgrim.online:2082/edercapo/capieder/152089"]},
 {"name":"FOX","urls":["http://abc123.digital:8080/bigmoe17.2@gmail.com/CWCwH9E9cG/418211"]},
-{"name":"ESPN","urls":["http://revteam8.offshorerev.cc:80/mag00:1A:79:13:93:21/j6kAhde5ot/156200"]},
+{"name":"ESPN","urls":["http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/1038"]},
 {"name":"CCTV5+HD","urls":["http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8"]}]}],
 
   "parses": [
