@@ -568,8 +568,8 @@
 {"name":"NHK_world","urls":["https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8"]},
 {"name":"SKY_News","urls":["https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8"]},
 {"name":"FOX_News","urls":["https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"]},
-{"name":"ESPN","urls":["http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/1038"]},
-{"name":"BBC","urls":["http://sharkytv.com:2082/topsmoothexc/SbyIeyH2Yj/16133"]}]}],
+{"name":"TVBS新聞","urls":["http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8"]},
+{"name":"ELTA生活旅遊","urls":["https://epg.pw/stream/37d6f76bc0d5547f52c9c7e1d03721182a0c1588cf3747fec2f7dc7c265bc49b.m3u8"]}]}],
 
   "parses": [
     {
