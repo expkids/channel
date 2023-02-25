@@ -565,9 +565,9 @@
 {"name":"有線新聞台","urls":["https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8"]}]},
 {"group":"备","channels":[
 {"name":"HKIBC","urls":["https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8"]},
-{"name":"Animal Planet","urls":["P2p://ns2.hellotvvod.com:9906/a882e17acbfa4d7c97b347673fc1be4e.ts"]},
-{"name":"NatGeo","urls":["P2p://ns2.hellotvvod.com:9906/2e78a3f19f57492b9dcae99b1fd0e3c5.ts"]},
-{"name":"Discovery","urls":["P2p://ns2.hellotvvod.com:9906/4c71eae98a6e4a909e632a0a6ab99b3d.ts"]},
+{"name":"NHK_world","urls":["https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8"]},
+{"name":"SKY_News","urls":["https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8"]},
+{"name":"FOX_News","urls":["https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"]},
 {"name":"ESPN","urls":["http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/1038"]},
 {"name":"BBC","urls":["http://sharkytv.com:2082/topsmoothexc/SbyIeyH2Yj/16133"]}]}],
 
