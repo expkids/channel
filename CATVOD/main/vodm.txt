@@ -602,13 +602,13 @@
 {"name":"直播新闻台","urls":["https://api.leonardpark.dev/live/icable/110"]},
 {"name":"HOY 資訊台","urls":["https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8"]},
 {"name":"有線新聞台","urls":["https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8"]}]},
-{"group":"备","channels":[
-{"name":"HKIBC","urls":["https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8"]},
-{"name":"NHK_world","urls":["https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8"]},
-{"name":"SKY_News","urls":["https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8"]},
-{"name":"FOX_News","urls":["https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"]},
-{"name":"TVBS新聞","urls":["http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8"]},
-{"name":"ELTA生活旅遊","urls":["https://epg.pw/stream/37d6f76bc0d5547f52c9c7e1d03721182a0c1588cf3747fec2f7dc7c265bc49b.m3u8"]}]}],
+{"group":"台","channels":[
+{"name":"民視","urls":["rtmp://219.80.97.77/sat/tv051"]},
+{"name":"台視","urls":["rtmp://219.80.97.77/sat/tv071"]},
+{"name":"中視","urls":["rtmp://219.80.97.77/sat/tv091"]},
+{"name":"TVBS新聞","urls":["rtmp://219.80.97.77/sat/tv551"]},
+{"name":"緯來日本","urls":["rtmp://219.80.97.77/sat/tv771"]},
+{"name":"ELTA生活旅遊","urls":["http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8"]}]}],
 
   "parses": [
     {
