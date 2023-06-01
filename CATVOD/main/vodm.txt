@@ -597,9 +597,8 @@
   ],
 "lives":[
 {"group":"i-Cable","channels":[
-{"name":"財經資訊台","urls":["https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8"]},
-{"name":"新聞台","urls":["https://api.leonardpark.dev/live/icable/109"]},
-{"name":"直播新闻台","urls":["https://api.leonardpark.dev/live/icable/110"]},
+{"name":"ViuTVsix","urls":["https://live.astradamy.com/viutv6/index.m3u8"]},
+{"name":"翡翠台","urls":["https://live.astradamy.com/tvbfc/index.m3u8"]},
 {"name":"HOY 資訊台","urls":["https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8"]},
 {"name":"有線新聞台","urls":["https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8"]}]},
 {"group":"台","channels":[
