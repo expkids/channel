@@ -557,18 +557,22 @@
 
   ],
 "lives":[
-{"group":"i-Cable","channels":[
-{"name":"財經資訊台","urls":["https://api.leonardpark.dev/live/icable/108"]},
-{"name":"新聞台","urls":["https://api.leonardpark.dev/live/icable/109"]},
-{"name":"直播新闻台","urls":["https://api.leonardpark.dev/live/icable/110"]},
+{"group":"Hong Kong","channels":[
+{"name":"ViuTVsix","urls":["https://live.astradamy.com/viutv6/index.m3u8"]},
+{"name":"Viu Tv","urls":["https://live.astradamy.com/viutv/index.m3u8"]},
+{"name":"翡翠台","urls":["https://live.astradamy.com/tvbfc/index.m3u8"]},
+{"name":"明珠台","urls":["https://live.astradamy.com/tvbpearl/index.m3u8"]},
+{"name":" J 2  台","urls":["https://live.astradamy.com/tvbj2/index.m3u8"]},
 {"name":"HOY 資訊台","urls":["https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8"]},
-{"name":"有線新聞台","urls":["https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8"]}]},
-{"group":"备","channels":[
-{"name":"Astro Super Sport 4K","urls":["http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/348094"]},
-{"name":"CCTV16-4K","urls":["http://154.3.37.107:8280/live/1/hls.m3u8"]},
-{"name":"五星体育(1)","urls":["http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8"]},
-{"name":"五星体育(2)","urls":["http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8"]},
-{"name":"CCTV5+HD","urls":["http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8"]}]}],
+{"name":"HOY TV","urls":["https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8"]},
+{"name":"香港國際財經台","urls":["https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8"]}]},
+{"group":"台","channels":[
+{"name":"民視","urls":["rtmp://219.80.97.77/sat/tv051"]},
+{"name":"台視","urls":["rtmp://219.80.97.77/sat/tv071"]},
+{"name":"中視","urls":["rtmp://219.80.97.77/sat/tv091"]},
+{"name":"TVBS新聞","urls":["rtmp://219.80.97.77/sat/tv551"]},
+{"name":"緯來日本","urls":["rtmp://219.80.97.77/sat/tv771"]},
+{"name":"ELTA生活旅遊","urls":["http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8"]}]}],
 
   "parses": [
     {
