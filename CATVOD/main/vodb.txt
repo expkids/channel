@@ -632,7 +632,7 @@
 {"name":"台視","urls":["http://sc2022.stream-link.org/tv2306.php?id=t13"]},
 {"name":"中視","urls":["http://sc2022.stream-link.org/tv2306.php?id=t06"]},
 {"name":"TVBS新聞","urls":["http://sc2022.stream-link.org/tv2306.php?id=t15"]},
-{"name":"TVBs歡樂台HD","urls":["http://sc2022.stream-link.org/tv2306.php?id=t16 "]},
+{"name":"TVBs歡樂台HD","urls":["http://sc2022.stream-link.org/tv2306.php?id=t16"]},
 {"name":"東森財經新聞","urls":["http://sc2022.stream-link.org/tv2306.php?id=t02"]}]}],
 
   "parses": [
