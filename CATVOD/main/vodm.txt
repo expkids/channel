@@ -609,7 +609,7 @@
 {"name":"民視","urls":["rtmp://219.80.97.77/sat/tv051"]},
 {"name":"台視","urls":["rtmp://219.80.97.77/sat/tv071"]},
 {"name":"中視","urls":["rtmp://219.80.97.77/sat/tv091"]},
-{"name":"TVBS新聞","urls":["rtmp://219.80.97.77/sat/tv551"]},
+{"name":"TVBS新聞","urls":["https://ythls.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8"]},
 {"name":"緯來日本","urls":["rtmp://219.80.97.77/sat/tv771"]},
 {"name":"ELTA生活旅遊","urls":["http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8"]}]}],
 
