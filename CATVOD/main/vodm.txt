@@ -619,8 +619,8 @@
   ],
 "lives":[
 {"group":"Hong Kong","channels":[
-{"name":"港台電視31","urls":["http://sc2022.stream-link.org/tv2306.php?id=h10"]},
-{"name":"港台電視32","urls":["http://sc2022.stream-link.org/tv2306.php?id=h11"]},
+{"name":"港台電視32","urls":["https://epg.pw/stream/9af9f2f6222d05161eb1d25dbda515741af92f6c152e4140f7386d047a07f9fb.m3u8"]},
+{"name":"港台電視33","urls":["http://sc2022.stream-link.org/tv2306.php?id=h11"]},
 {"name":"翡翠台","urls":["https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8"]},
 {"name":"明珠台","urls":["https://epg.pw/stream/19ea47ed31c13572912305ac40dab588b69159455bb51a55f520a054826c951c.m3u8"]},
 {"name":" J 2  台","urls":["http://r.jdshipin.com/Nr5jq"]},
