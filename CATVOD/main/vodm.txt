@@ -622,7 +622,7 @@
 {"name":"港台電視31","urls":["http://sc2022.stream-link.org/tv2306.php?id=h10"]},
 {"name":"港台電視32","urls":["http://sc2022.stream-link.org/tv2306.php?id=h11"]},
 {"name":"翡翠台","urls":["http://r.jdshipin.com/qClQf"]},
-{"name":"明珠台","urls":["http://r.jdshipin.com/ZQ4kN"]},
+{"name":"明珠台","urls":["https://epg.pw/stream/19ea47ed31c13572912305ac40dab588b69159455bb51a55f520a054826c951c.m3u8"]},
 {"name":" J 2  台","urls":["http://r.jdshipin.com/Nr5jq"]},
 {"name":"HOY 資訊台","urls":["https://epg.pw/stream/1faa9c9e29ff02bf0f2aaa13b46162c3e334bd456dd15a410dba2696cc1e03ad.m3u8"]},
 {"name":"HOY TV","urls":["https://epg.pw/stream/c267fcf607387ff9dcdb36595b6090661f435b41762cd89a56f1f1a3ea5ce2ad.m3u8"]},
