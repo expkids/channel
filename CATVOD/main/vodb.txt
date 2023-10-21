@@ -631,7 +631,7 @@
 {"name":"香港國際財經台","urls":["http://sc2022.stream-link.org/tv2306.php?id=h13"]}]},
 {"group":"台","channels":[
 {"name":"民視","urls":["https://epg.pw/stream/75e14c76b6bf52ae5f96e83d07ea3b69008f6b017d18a395b6c6346ef60bcb27.m3u8"]},
-{"name":"台視","urls":["https://epg.pw/stream/361884393acbaf190fcc4ffee5095dbc82961032b2ac88badf25d324b27048d0.m3u8"]},
+{"name":"台視","urls":["https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8"]},
 {"name":"三立新聞","urls":["https://epg.pw/stream/a5fc038f36087bfc6bb222c8082ca6e8fef103ce6b06a9f97613809d19895325.ctv"]},
 {"name":"TVBS新聞","urls":["http://sc2022.stream-link.org/tv2306.php?id=t14"]},
 {"name":"TVBs歡樂台HD","urls":["http://sc2022.stream-link.org/tv2306.php?id=t16"]},
