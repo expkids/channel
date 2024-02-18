@@ -630,10 +630,10 @@
 {"name":"HOY TV","urls":["https://epg.pw/stream/c267fcf607387ff9dcdb36595b6090661f435b41762cd89a56f1f1a3ea5ce2ad.m3u8"]},
 {"name":"香港國際財經台","urls":["http://sc2022.stream-link.org/tv2306.php?id=h13"]}]},
 {"group":"台","channels":[
-{"name":"民視","urls":["http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?$1920x1080"]},
-{"name":"台視","urls":["http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8?$1920x1080"]},
-{"name":"TVBS新聞","urls":["http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8?$1920x1080"]},
-{"name":"TVBS亞洲","urls":["http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8?$1920x1080"]},
+{"name":"民視","urls":["http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"]},
+{"name":"台視","urls":["http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"]},
+{"name":"TVBS新聞","urls":["http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8"]},
+{"name":"TVBS亞洲","urls":["http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8"]},
 {"name":"東森財經新聞","urls":["http://sc2022.stream-link.org/tv2306.php?id=t02"]}]}],
 
   "parses": [
