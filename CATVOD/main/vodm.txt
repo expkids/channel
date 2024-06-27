@@ -383,6 +383,7 @@
             "key": "csp_Nbys",
             "name": "泥视频(墙外)",
             "type": 3,
+            "jar":"https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
             "api": "csp_NiNi",
             "searchable": 1,
             "quickSearch": 1,
