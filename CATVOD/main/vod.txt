@@ -94,6 +94,7 @@
       "key": "nbys",
       "name": "泥巴",
       "type": 3,
+      "jar":"https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
       "api": "csp_Nbys",
       "searchable": 1,
       "quickSearch": 1,
