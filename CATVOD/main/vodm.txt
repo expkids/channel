@@ -15,8 +15,7 @@
         }
     ],
     "sites": [
-     {"key":"网飞影视","name":"华人|首页","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/wf.js"},  
-     {
+       {
             "key": "豆瓣推荐",
             "name": "豆瓣推荐",
             "type": 3,
